@@ -6,3 +6,4 @@ This project is born of my will to get me feet back to programming... at my own.
 
 ## V 1.0 - February, 19, 2023 ##
 The idea for this version, is to be really simple, and compare two given texts (initially txt files, I know this is not fancy, but we've got to start somewhere, right?), and find similarities among them.
+What we want to do, is create a program, that reads two texts files, and compares both for finding similarities.
